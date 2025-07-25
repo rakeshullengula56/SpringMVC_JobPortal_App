@@ -3,55 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Job Portal - README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: auto;
-      background: #f8f9fa;
-      color: #222;
-      padding: 2em;
-    }
-    code, pre {
-      background: #eee;
-      padding: 0.2em 0.4em;
-      border-radius: 3px;
-      font-size: 90%;
-    }
-    pre {
-      display: block;
-      padding: 0.8em;
-      overflow-x: auto;
-      font-size: 95%;
-      margin-bottom: 1.5em;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin-bottom: 1.5em;
-    }
-    table, th, td {
-      border: 1px solid #bbb;
-      padding: 0.4em 0.7em;
-    }
-    th {
-      background: #eee;
-    }
-    h1, h2, h3 {
-      color: #244a64;
-    }
-    ul {
-      margin-left: 1.4em;
-    }
-    .tip {
-      background: #d9edf7;
-      color: #31708f;
-      padding: 0.7em 1em;
-      border-radius: 4px;
-      margin: 1em 0;
-    }
-  </style>
 </head>
 <body>
 
